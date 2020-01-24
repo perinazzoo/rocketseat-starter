@@ -2,8 +2,6 @@
   RGM
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/perinazzoo/rocketseat-starter">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/perinazzoo/rocketseat-starter">
   
   <a href="https://github.com/perinazzoo/rocketseat-starter/commits/master">
