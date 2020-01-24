@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://gatomakonha.herokuapp.com/api',
+  baseURL: 'APIURL',
 });
 
 export default api;

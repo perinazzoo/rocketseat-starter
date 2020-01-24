@@ -4,7 +4,7 @@ import {View, Text, FlatList, TouchableOpacity, StyleSheet} from 'react-native';
 
 export default class Main extends Component {
   static navigationOptions = {
-    title: 'Gato Makonha',
+    title: 'Rep. Gato Makonha',
   };
 
   state = {
