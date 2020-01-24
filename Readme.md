@@ -1,6 +1,6 @@
-<h4 align="center">
+<h1 align="center">
   RGM
-</h4>
+</h1>
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/perinazzoo/rocketseat-starter">
   
