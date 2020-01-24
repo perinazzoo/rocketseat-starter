@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="![Screenshot_1](https://user-images.githubusercontent.com/53301430/73038400-11224680-3e31-11ea-9bf5-5118f2a43aa1.png)" width="100%">
+  <img alt="Frontend" src="https://user-images.githubusercontent.com/53301430/73038400-11224680-3e31-11ea-9bf5-5118f2a43aa1.png" width="100%">
 </p>
 
 ## :space_invader: Tecnologias
