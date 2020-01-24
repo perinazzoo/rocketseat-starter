@@ -58,4 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Gabriel Perinazzo
+Feito com ♥ por Gabriel Perinazzo
