@@ -1,5 +1,5 @@
 import axios from "axios";
 
-const api = axios.create({ baseURL: "https://gatomakonha.herokuapp.com/api" });
+const api = axios.create({ baseURL: "APIURL" });
 
 export default api;
