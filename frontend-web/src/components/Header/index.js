@@ -3,7 +3,7 @@ import "./styles.css";
 
 const header = () => (
   <header id="main-header">
-    <a href="/">Rep. Gato Makonha</a>
+    <a href="/">RGM</a>
   </header>
 );
 

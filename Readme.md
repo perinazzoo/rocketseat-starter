@@ -18,19 +18,19 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#space_invader-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://i.imgur.com/b0irRV0.png" width="100%">
+  <img alt="Frontend" src="![Screenshot_1](https://user-images.githubusercontent.com/53301430/73038400-11224680-3e31-11ea-9bf5-5118f2a43aa1.png)" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :space_invader: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O RGM é um projeto desenvolvido durante os cursos basicos de ReactJS, NodeJS e React Native da Rocketseat. O Projeto
 consiste em criar uma api, uma interface e um aplicativo mobile. Eu fiz minhas alterações e ao invés de produtos, utilizei membros de um antigo grupo de amigos do discord.
 
-## 🤔 Como contribuir
+## :wrench: Como contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
