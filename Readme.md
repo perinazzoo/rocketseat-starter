@@ -1,25 +1,11 @@
 <h1 align="center">
   RGM
 </h1>
-<p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/perinazzoo/rocketseat-starter">
-  
-  <a href="https://github.com/perinazzoo/rocketseat-starter/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/perinazzoo/rocketseat-starter">
-  </a>
-
-  <a href="https://github.com/perinazzoo/rocketseat-starter/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/perinazzoo/rocketseat-starter">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
 
 <p align="center">
-  <a href="#space_invader-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="hammer_and_wrench-iniciando-o-projeto">Iniciando o projeto</a>
 </p>
 
 <br>
@@ -28,7 +14,7 @@
   <img alt="Frontend" src="https://user-images.githubusercontent.com/53301430/73038400-11224680-3e31-11ea-9bf5-5118f2a43aa1.png" width="100%">
 </p>
 
-## :space_invader: Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -41,19 +27,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O RGM é um projeto desenvolvido durante os cursos basicos de ReactJS, NodeJS e React Native da Rocketseat. O Projeto
 consiste em criar uma api, uma interface e um aplicativo mobile. Eu fiz minhas alterações e ao invés de produtos, utilizei membros de um antigo grupo de amigos do discord.
 
-## :wrench: Como contribuir
+## :hammer_and_wrench: Iniciando o projeto
+1. Clone este repositório usando git clone https://github.com/perinazzoo/rocketseat-starter.git
+2. Vá para o diretório usando: `cd rocketseat-starter`
+3. Vá para o diretório usando: `cd backend`
+4. Rode o comando `yarn` para instalar todas as dependências
+5. Rode o comando `yarn start` para iniciar o servidor
+6. Vá para o diretório usando: `cd .. && cd frontend-web`
+7. Rode o comando `yarn` para instalar todas as dependências novamente
+8. Rode o comando `yarn start` para iniciar o servidor web
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-por Gabriel Perinazzo
+<hr/>
+<br/>
+<blockquote>Feito com :coffee: e :heart: por Gabriel Perinazzo</blockquote>
