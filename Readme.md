@@ -15,20 +15,20 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p align="center">
-  <a href="#space_invader-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 <br>
+
+Este projeto encontra-se com erros, e, por se tratar de um projeto muito básico e antigo, não receberá atualização, servirá apenas para comparar minha evolução.
 
 <p align="center">
   <img alt="Frontend" src="https://user-images.githubusercontent.com/53301430/73038400-11224680-3e31-11ea-9bf5-5118f2a43aa1.png" width="100%">
 </p>
 
-## :space_invader: Tecnologias
+## :mag: Sobre o projeto
+
+O RGM é um projeto desenvolvido durante os cursos basicos de ReactJS, NodeJS e React Native da Rocketseat. O Projeto
+consiste em criar uma api, uma interface e um aplicativo mobile. Eu fiz minhas alterações e ao invés de produtos, utilizei membros de um antigo grupo de amigos do discord.
+
+## :satellite: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -36,24 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-## 💻 Projeto
-
-O RGM é um projeto desenvolvido durante os cursos basicos de ReactJS, NodeJS e React Native da Rocketseat. O Projeto
-consiste em criar uma api, uma interface e um aplicativo mobile. Eu fiz minhas alterações e ao invés de produtos, utilizei membros de um antigo grupo de amigos do discord.
-
-## :wrench: Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-por Gabriel Perinazzo
+<hr/>
+<br/>
+<blockquote>Feito com :coffee: e :heart: por Gabriel Perinazzo</blockquote>
